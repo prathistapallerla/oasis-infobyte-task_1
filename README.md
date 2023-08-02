@@ -1,4 +1,4 @@
-# oiasis-infobyte task-1
+# oasis-infobyte task-1
 Web Development Virtual Internship projects .
 
 
